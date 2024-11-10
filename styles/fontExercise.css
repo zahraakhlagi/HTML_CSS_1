@@ -1,0 +1,45 @@
+p{
+  font-family: Arial;
+}
+.video-title{
+  font-size: 18px;
+  font-weight: bold;
+  width: 300px;
+  line-height: 28px;
+  margin-bottom: 5px;
+
+}
+.video-author{
+  color:rgb(96, 96, 96);
+  font-size: 14px;
+  margin-top: 0px;
+}
+.author-name{
+  color:rgb(96, 96, 96);
+  font-size: 14px;
+}
+.video-description{
+  font-size: 14px;
+  color:rgb(96, 96, 96);
+  width: 280px;
+  line-height: 20px;
+  margin-top: 25px;
+
+}
+.video-info{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color:rgb(255, 255, 255);
+  text-align: center;
+  padding-top:16px;
+  padding-bottom: 16px;
+  margin-top: 60px;
+  
+}
+.shop-example{
+  cursor: pointer;
+}
+.shop-example:hover{
+  text-decoration: underline;
+}
